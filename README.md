@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I’m Saurab.  <br>I’m self taught dev who learns by building — web apps, system tools, and practice projects inspired by online courses. I run Arch Linux, love optimizing workflows, and always try to ship something useful.  <br>📫 Want to collab or test something? Open an issue or DM me.
+👋 Hey, I’m Saurab.  <br>I’m self taught dev who learns by building — web apps, system tools, and practice projects inspired by online courses. I use Linux, love optimizing workflows, and always try to ship something useful.  <br>📫 Want to collab or test something? Open an issue or DM me.
 
 
 ## 🌐 Socials:
